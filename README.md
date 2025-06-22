@@ -79,7 +79,7 @@ _(Coming soon: Include UI images for Input, Output, Export tabs)_
 
 1. **Clone the Repository**
   
-   git clone https://github.com/your-username/ip-networking-tool.git
+   git clone https://github.com/semedo-nob/ip-networking-tool.git
    cd ip-networking-tool
 Install Dependencies
 
